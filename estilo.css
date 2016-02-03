@@ -1,0 +1,42 @@
+.changenav{
+border-bottom:1px solid #fff;
+background-color: #DE4A4A;
+}
+.nomargintop{
+	margin-top:0;
+}
+.apresentacao{
+	width:100%;
+	max-width:500px;
+	margin:auto; 
+	height:400px;
+	padding-top:100px;
+}
+
+.container-fluid{
+	background-color:#fff !important;
+}
+.textomodulo{
+	font-size:20px;
+}
+.imagemjust{
+	margin-top:50px;
+}
+
+.page-footer{
+	background-color: #DE4A4A !important;
+}
+.borderbottom{
+	border-bottom:1px solid black;
+}
+
+
+@media (max-width: 767px){
+	.apresentacao{
+		padding-top:70px;
+	}
+}
+
+.footer-copyright{
+	background-color: #DE4A4A !important;
+}
